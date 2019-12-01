@@ -1,4 +1,4 @@
-# Illusive Zoo Management REST API
+# Illusive Zoo Management REST API Service
 
 This is a RESTful web service application implemented using Spring MVC and Java. The service provides an in-memory zoo management service with the following capabilities:
 
