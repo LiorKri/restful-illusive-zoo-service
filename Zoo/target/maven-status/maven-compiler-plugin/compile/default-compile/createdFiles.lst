@@ -1,0 +1,10 @@
+com\illusivezoo\resource\AnimalResource.class
+com\illusivezoo\domain\Animal.class
+com\illusivezoo\repository\IdGenerator.class
+com\illusivezoo\repository\InMemoryRepository.class
+com\illusivezoo\resource\ResourceAssembler.class
+com\illusivezoo\controller\AnimalController.class
+com\illusivezoo\repository\AnimalRepository.class
+com\illusivezoo\domain\Identifiable.class
+com\illusivezoo\App.class
+com\illusivezoo\resource\AnimalResourceAssembler.class

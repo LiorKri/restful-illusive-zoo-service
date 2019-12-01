@@ -1,0 +1,3 @@
+com\illusivezoo\test\unit\repository\IdGeneratorTest.class
+com\illusivezoo\test\unit\repository\AnimalRepositoryTest.class
+com\illusivezoo\test\util\AnimalTestUtils.class
